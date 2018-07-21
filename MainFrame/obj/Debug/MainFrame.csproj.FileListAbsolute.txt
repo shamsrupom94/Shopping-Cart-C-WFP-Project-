@@ -1,0 +1,38 @@
+F:\Project\MainFrame\MainFrame\bin\Debug\MainFrame.exe.config
+F:\Project\MainFrame\MainFrame\bin\Debug\MainFrame.exe
+F:\Project\MainFrame\MainFrame\bin\Debug\MainFrame.pdb
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.mainForm.resources
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.Properties.Resources.resources
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.UserLogin.resources
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.exe
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.pdb
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.CoustomerHome.resources
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.AdminHome.resources
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.AdminLogin.resources
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.UserLogin.aa.resources
+F:\Project\MainFrame\MainFrame\obj\Debug\aa\MainFrame.resources.dll
+F:\Project\MainFrame\MainFrame\bin\Debug\aa\MainFrame.resources.dll
+F:\Project\MainFrame\MainFrame\bin\Debug\ShoppinCart.mdf
+F:\Project\MainFrame\MainFrame\bin\Debug\ShoppinCart_log.ldf
+F:\Project\MainFrame\MainFrame\obj\Debug\MainFrame.Shopping_List.resources
+F:\C# Works\Project\MainFrame\MainFrame\bin\Debug\ShoppinCart.mdf
+F:\C# Works\Project\MainFrame\MainFrame\bin\Debug\ShoppinCart_log.ldf
+F:\C# Works\Project\MainFrame\MainFrame\bin\Debug\MainFrame.exe.config
+F:\C# Works\Project\MainFrame\MainFrame\bin\Debug\MainFrame.exe
+F:\C# Works\Project\MainFrame\MainFrame\bin\Debug\MainFrame.pdb
+F:\C# Works\Project\MainFrame\MainFrame\bin\Debug\aa\MainFrame.resources.dll
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.AdminHome.resources
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.AdminLogin.resources
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.CoustomerHome.resources
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.mainForm.resources
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.Properties.Resources.resources
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.Shopping_List.resources
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.UserLogin.resources
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.UserLogin.aa.resources
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\aa\MainFrame.resources.dll
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.exe
+F:\C# Works\Project\MainFrame\MainFrame\obj\Debug\MainFrame.pdb

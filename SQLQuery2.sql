@@ -1,0 +1,1 @@
+﻿select * from [Customer] where C_ID='2002' and C_Password='123456'
